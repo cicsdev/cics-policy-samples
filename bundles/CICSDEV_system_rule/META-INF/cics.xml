@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest xmlns="http://www.ibm.com/xmlns/prod/cics/bundle" id="CICSDEV_system_rule" bundleMajorVer="1" bundleMinorVer="0" bundleMicroVer="0" bundleVersion="1" bundleRelease="0" build="IntB-201809142129">
+    <meta_directives>
+        <timestamp>2019-06-13T14:36:50.396+01:00</timestamp>
+    </meta_directives>
+    <define name="mySystemRules" type="http://www.ibm.com/xmlns/prod/cics/bundle/POLICY" path="mySystemRules.policy"/>
+</manifest>
